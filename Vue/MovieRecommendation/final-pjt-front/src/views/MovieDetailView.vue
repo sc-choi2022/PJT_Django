@@ -47,55 +47,55 @@
         <div class="otts" v-if="movie.otts.length === 1">
           <span v-if="movie.otts[0]['id'] === 8">
             <a href="https://www.netflix.com/kr/">
-            <img class="thumnail" src="https://w.namu.la/s/08cf9640d5b9e25e2901375f21e3794c9f79e0c4930c5f697cacca22ec454184e410ad955dd997cccaf7e15ad0d7ee8d8976fe767505159c90513b78764543bec07bc8a4b9cf87217ebcb1db11d0ba81db10fe022311d293ed443336b28508c4" alt=""></a>
+            <img class="thumnail" src="https://w.namu.la/s/984a3a524c3a76ef69967a3538f0b655d9e4a9b948314bd8d57f34a1502753104f1613f356c08d4352cdfad86bbea9cd56b2133ea5c9c7a57f1c065b1048cb5b99a3d5c985c3e5dcc9771079d20c1e92938bf03fa9d6d2f07d75fe6df97abaff" alt=""></a>
           </span>
           <span v-if="movie.otts[0]['id'] === 97">
             <a href="https://watcha.com/">
-            <img class="thumnail" src="https://w.namu.la/s/806795f01bfdb99ee07ef5ed4d26c7a76ce99bddf229f51418d040f4387944e4e06d19bcbd84da2a179de6273e3ca30f084aabc97154fb91a2f167ee349cec6d6e3c4db1abb00949ce2523d61074442a389fffadb69a3030b85c5168be94f968" alt=""></a>
+            <img class="thumnail" src="https://w.namu.la/s/806795f01bfdb99ee07ef5ed4d26c7a76ce99bddf229f51418d040f4387944e4e06d19bcbd84da2a179de6273e3ca30f084aabc97154fb91a2f167ee349cec6d6e3c4db1abb00949ce2523d61074442a75f6771cbc51e0a7d5ba92dd6a8e16fa" alt=""></a>
           </span>
           <span v-if="movie.otts[0]['id'] === 337">
             <a href="https://www.disneyplus.com/ko-kr/welcome/stream-now">
-            <img class="thumnail" src="https://w.namu.la/s/e53fcef546cc1b3f510694f331690215c764c0672c35dd34d207f29ed51c38de36e9f57e5bdd2ee05df77b4c1731d4ce840d3990860b959d27dc073339f94f0705d5bb2a4295a17b8911c5f6d31384752c47dedbd5d7f51bfec4db459a7e6f4b" alt=""></a>
+            <img class="thumnail" src="https://w.namu.la/s/e53fcef546cc1b3f510694f331690215c764c0672c35dd34d207f29ed51c38de36e9f57e5bdd2ee05df77b4c1731d4ce840d3990860b959d27dc073339f94f0705d5bb2a4295a17b8911c5f6d3138475d5877101aa71fbe0fa9a7975f2be49f3" alt=""></a>
           </span>
         </div>
         <div class="otts" v-if="movie.otts.length === 2">
           <span v-if="movie.otts[0]['id'] === 8">
             <a href="https://www.netflix.com/kr/">
-            <img class="thumnail" src="https://w.namu.la/s/08cf9640d5b9e25e2901375f21e3794c9f79e0c4930c5f697cacca22ec454184e410ad955dd997cccaf7e15ad0d7ee8d8976fe767505159c90513b78764543bec07bc8a4b9cf87217ebcb1db11d0ba81db10fe022311d293ed443336b28508c4" alt=""></a>
+            <img class="thumnail" src="https://w.namu.la/s/984a3a524c3a76ef69967a3538f0b655d9e4a9b948314bd8d57f34a1502753104f1613f356c08d4352cdfad86bbea9cd56b2133ea5c9c7a57f1c065b1048cb5b99a3d5c985c3e5dcc9771079d20c1e92938bf03fa9d6d2f07d75fe6df97abaff" alt=""></a>
           </span>
           <span v-if="movie.otts[0]['id'] === 97">
             <a href="https://watcha.com/">
-            <img class="thumnail" src="https://w.namu.la/s/806795f01bfdb99ee07ef5ed4d26c7a76ce99bddf229f51418d040f4387944e4e06d19bcbd84da2a179de6273e3ca30f084aabc97154fb91a2f167ee349cec6d6e3c4db1abb00949ce2523d61074442a389fffadb69a3030b85c5168be94f968" alt=""></a>
+            <img class="thumnail" src="https://w.namu.la/s/806795f01bfdb99ee07ef5ed4d26c7a76ce99bddf229f51418d040f4387944e4e06d19bcbd84da2a179de6273e3ca30f084aabc97154fb91a2f167ee349cec6d6e3c4db1abb00949ce2523d61074442a75f6771cbc51e0a7d5ba92dd6a8e16fa" alt=""></a>
           </span>
           <span v-if="movie.otts[0]['id'] === 337">
             <a href="https://www.disneyplus.com/ko-kr/welcome/stream-now">
-            <img class="thumnail" src="https://w.namu.la/s/e53fcef546cc1b3f510694f331690215c764c0672c35dd34d207f29ed51c38de36e9f57e5bdd2ee05df77b4c1731d4ce840d3990860b959d27dc073339f94f0705d5bb2a4295a17b8911c5f6d31384752c47dedbd5d7f51bfec4db459a7e6f4b" alt=""></a>
+            <img class="thumnail" src="https://w.namu.la/s/e53fcef546cc1b3f510694f331690215c764c0672c35dd34d207f29ed51c38de36e9f57e5bdd2ee05df77b4c1731d4ce840d3990860b959d27dc073339f94f0705d5bb2a4295a17b8911c5f6d3138475d5877101aa71fbe0fa9a7975f2be49f3" alt=""></a>
           </span>
           <span v-if="movie.otts[1]['id'] === 8">
             <a href="https://www.netflix.com/kr/">
-            <img class="thumnail" src="https://w.namu.la/s/08cf9640d5b9e25e2901375f21e3794c9f79e0c4930c5f697cacca22ec454184e410ad955dd997cccaf7e15ad0d7ee8d8976fe767505159c90513b78764543bec07bc8a4b9cf87217ebcb1db11d0ba81db10fe022311d293ed443336b28508c4" alt=""></a>
+            <img class="thumnail" src="https://w.namu.la/s/984a3a524c3a76ef69967a3538f0b655d9e4a9b948314bd8d57f34a1502753104f1613f356c08d4352cdfad86bbea9cd56b2133ea5c9c7a57f1c065b1048cb5b99a3d5c985c3e5dcc9771079d20c1e92938bf03fa9d6d2f07d75fe6df97abaff" alt=""></a>
           </span>
           <span v-if="movie.otts[1]['id'] === 97">
             <a href="https://watcha.com/">
-            <img class="thumnail" src="https://w.namu.la/s/806795f01bfdb99ee07ef5ed4d26c7a76ce99bddf229f51418d040f4387944e4e06d19bcbd84da2a179de6273e3ca30f084aabc97154fb91a2f167ee349cec6d6e3c4db1abb00949ce2523d61074442a389fffadb69a3030b85c5168be94f968" alt=""></a>
+            <img class="thumnail" src="https://w.namu.la/s/806795f01bfdb99ee07ef5ed4d26c7a76ce99bddf229f51418d040f4387944e4e06d19bcbd84da2a179de6273e3ca30f084aabc97154fb91a2f167ee349cec6d6e3c4db1abb00949ce2523d61074442a75f6771cbc51e0a7d5ba92dd6a8e16fa" alt=""></a>
           </span>
           <span v-if="movie.otts[1]['id'] === 337">
             <a href="https://www.disneyplus.com/ko-kr/welcome/stream-now">
-            <img class="thumnail" src="https://w.namu.la/s/e53fcef546cc1b3f510694f331690215c764c0672c35dd34d207f29ed51c38de36e9f57e5bdd2ee05df77b4c1731d4ce840d3990860b959d27dc073339f94f0705d5bb2a4295a17b8911c5f6d31384752c47dedbd5d7f51bfec4db459a7e6f4b" alt=""></a>
+            <img class="thumnail" src="https://w.namu.la/s/e53fcef546cc1b3f510694f331690215c764c0672c35dd34d207f29ed51c38de36e9f57e5bdd2ee05df77b4c1731d4ce840d3990860b959d27dc073339f94f0705d5bb2a4295a17b8911c5f6d3138475d5877101aa71fbe0fa9a7975f2be49f3" alt=""></a>
           </span>
         </div>
         <div class="otts" v-if="movie.otts.length === 3">
           <span>
             <a href="https://www.netflix.com/kr/">
-            <img class="thumnail" src="https://w.namu.la/s/08cf9640d5b9e25e2901375f21e3794c9f79e0c4930c5f697cacca22ec454184e410ad955dd997cccaf7e15ad0d7ee8d8976fe767505159c90513b78764543bec07bc8a4b9cf87217ebcb1db11d0ba81db10fe022311d293ed443336b28508c4" alt=""></a>
+            <img class="thumnail" src="https://w.namu.la/s/984a3a524c3a76ef69967a3538f0b655d9e4a9b948314bd8d57f34a1502753104f1613f356c08d4352cdfad86bbea9cd56b2133ea5c9c7a57f1c065b1048cb5b99a3d5c985c3e5dcc9771079d20c1e92938bf03fa9d6d2f07d75fe6df97abaff" alt=""></a>
           </span>
           <span>
             <a href="https://watcha.com/">
-            <img class="thumnail" src="https://w.namu.la/s/806795f01bfdb99ee07ef5ed4d26c7a76ce99bddf229f51418d040f4387944e4e06d19bcbd84da2a179de6273e3ca30f084aabc97154fb91a2f167ee349cec6d6e3c4db1abb00949ce2523d61074442a389fffadb69a3030b85c5168be94f968" alt=""></a>
+            <img class="thumnail" src="https://w.namu.la/s/806795f01bfdb99ee07ef5ed4d26c7a76ce99bddf229f51418d040f4387944e4e06d19bcbd84da2a179de6273e3ca30f084aabc97154fb91a2f167ee349cec6d6e3c4db1abb00949ce2523d61074442a75f6771cbc51e0a7d5ba92dd6a8e16fa" alt=""></a>
           </span>
           <span>
             <a href="https://www.disneyplus.com/ko-kr/welcome/stream-now">
-            <img class="thumnail" src="https://w.namu.la/s/e53fcef546cc1b3f510694f331690215c764c0672c35dd34d207f29ed51c38de36e9f57e5bdd2ee05df77b4c1731d4ce840d3990860b959d27dc073339f94f0705d5bb2a4295a17b8911c5f6d31384752c47dedbd5d7f51bfec4db459a7e6f4b" alt=""></a>
+            <img class="thumnail" src="https://w.namu.la/s/e53fcef546cc1b3f510694f331690215c764c0672c35dd34d207f29ed51c38de36e9f57e5bdd2ee05df77b4c1731d4ce840d3990860b959d27dc073339f94f0705d5bb2a4295a17b8911c5f6d3138475d5877101aa71fbe0fa9a7975f2be49f3" alt=""></a>
           </span>
         </div>
         <div class="personalmovie">
